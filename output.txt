@@ -1,0 +1,61 @@
+PS C:\Users\gupta\Downloads\HW-10> node "c:\Users\gupta\Downloads\HW-10\hello.js"
+Skipping invalid score in line: word,Sentiment scores,,https://nlp.stanford.edu/projects/socialsent/
+[word: current_score, accumulated_score]
+which: 0.00, 0.00
+takes: 0.03, 0.03
+multiple: -0.35, -0.32
+delimeters: 0.00, -0.32
+when: 0.00, -0.32
+you: 0.00, -0.32
+use: 0.10, -0.22
+strtok: 0.00, -0.22
+you: 0.00, -0.22
+only: 0.00, -0.22
+need: 0.02, -0.20
+to: 0.00, -0.20
+pass: 0.08, -0.12
+it: 0.00, -0.12
+the: 0.00, -0.12
+address: -0.04, -0.16
+of: 0.00, -0.16
+your: 0.00, -0.16
+buffer: 0.00, -0.16
+the: 0.00, -0.16
+first: 0.00, -0.16
+time: 0.00, -0.16
+after: 0.00, -0.16
+that: 0.00, -0.16
+just: 0.00, -0.16
+pass: 0.08, -0.08
+in: 0.00, -0.08
+a: 0.00, -0.08
+null: 0.00, -0.08
+and: 0.00, -0.08
+it: 0.00, -0.08
+will: 0.00, -0.08
+give: 0.13, 0.05
+you: 0.00, 0.05
+the: 0.00, 0.05
+next: 0.17, 0.22
+token: 0.00, 0.22
+from: 0.00, 0.22
+the: 0.00, 0.22
+last: 0.52, 0.74
+one: 0.00, 0.74
+it: 0.00, 0.74
+gave: -0.16, 0.58
+you: 0.00, 0.58
+returning: -0.11, 0.47
+a: 0.00, 0.47
+null: 0.00, 0.47
+pointer: 0.00, 0.47
+when: 0.00, 0.47
+there: 0.00, 0.47
+are: 0.00, 0.47
+no: 0.00, 0.47
+more: 0.00, 0.47
+
+review.txt score: 0.47
+review.txt Stars: 3
+
+PS C:\Users\gupta\Downloads\HW-10> 
